@@ -14,7 +14,7 @@ const canciones = ['Labios compartidos','Mariposa traicionera','Mandame una señ
 
 // console.log(Mana);
 
-// forma nueva
+// forma nueva de union de objetos
 const mana = {
     banda,
     genero,
